@@ -1,0 +1,10 @@
+streamlit
+praw
+requests
+google-generativeai
+fastapi
+uvicorn
+python-dotenv
+requests
+google-generativeai>=0.4.0
+agno
